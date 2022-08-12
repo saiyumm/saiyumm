@@ -20,12 +20,12 @@
 
 <details>
   <summary>:star: GitHub Stats</summary>
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Saiyam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saiyumm&show_icons=true&hide_border=true" />
 </details>
 
 <details>
   <summary>:star: Most Used Languages</summary>
-  <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+  <img align="left" alt="Saiyam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiyumm" />
 </details>
 
 
