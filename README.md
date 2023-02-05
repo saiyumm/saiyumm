@@ -6,7 +6,7 @@
 ## I'm a Student, Learner, Developer!!
 
 - 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning Data Structures & Algorithms
+- 🌱 I’m currently learning Web Development 
 - 👯 I’m looking to collaborate with anyone likeminded
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
