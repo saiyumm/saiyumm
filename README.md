@@ -1,17 +1,22 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25"> Hello World, I'm [Saiyam Jain]
+## Hello World, I'm [Saiyam Jain] 🤸‍♂️
 
- <img align="right" alt="img" src="https://github.com/saiyumm/saiyumm/blob/main/345.png" width="300" />
+<img align="right" alt="img" src="https://github.com/saiyumm/saiyumm/blob/main/345.png" width="300" />
 
+### I'm a learner!!
 
-## I'm a Student, Learner, Developer!!
-
-- 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning Web Designing
-- 👯 I’m looking to collaborate with anyone likeminded
-- 💬 Ask me about ... Anything
+- 👨‍💻 Working as a trainee software engineer at RecruitCRM
+- 🌱 Currently learning web development
+- 🤝 Looking to connect with anyone likeminded
+- 💬 Ask me about ... anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Music
-- :v: Connect with me <a href="https://www.linkedin.com/in/jainsaiyam1403/" target="_blank">Saiyam Jain</a>
+- ⚡ Fun fact: I love music
+- :v: Connect with me:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://in.linkedin.com/in/saiyumm" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="40"/></a>&nbsp;
+<a href="https://www.instagram.com/saiyamjain__/" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="40"/></a>&nbsp;
+[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" alt="Click to mail" width="40">](mailto:jainsanyam1432@gmail.com)
+
 
 <br />
 
@@ -25,5 +30,5 @@
   <img alt="Saiyam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiyumm" />
 </details>
 
-[Saiyam Jain]: https://linkedin.com/in/jainsaiyam1403
-[linkedin]: https://linkedin.com/in/jainsaiyam1403
+[Saiyam Jain]: https://in.linkedin.com/in/saiyumm
+[linkedin]: https://in.linkedin.com/in/saiyumm
