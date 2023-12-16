@@ -5,7 +5,7 @@
 ### I'm a learner!!
 
 - 👨‍💻 Working as an Associate Software Engineer at RecruitCRM
-- 🌱 Currently learning - Dev + DSA + DevOps - in-short everything 🙃
+- 🌱 Currently learning: Dev + DSA + DevOps | in-short everything
 - 🤝 Looking to connect with anyone likeminded
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love music
