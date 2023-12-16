@@ -4,10 +4,9 @@
 
 ### I'm a learner!!
 
-- 👨‍💻 Working as a trainee software engineer at RecruitCRM
-- 🌱 Currently learning web development
+- 👨‍💻 Working as an Associate Software Engineer at RecruitCRM
+- 🌱 Currently learning - Dev + DSA + DevOps - in-short everything 🙃
 - 🤝 Looking to connect with anyone likeminded
-- 💬 Ask me about ... anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love music
 - :v: Connect with me:
