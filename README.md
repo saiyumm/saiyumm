@@ -13,7 +13,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://in.linkedin.com/in/saiyumm" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="40"/></a>&nbsp;
-<a href="https://www.instagram.com/saiyamjain__/" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="40"/></a>&nbsp;
 [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" alt="Click to mail" width="40">](mailto:jainsanyam1432@gmail.com)
 
 
